@@ -1,9 +1,9 @@
 print("Hello world")
 info = """
 Hello,
-I am Omar
-I was born in 12 Sept 1998
-I am from Egypt and I live in Dubai
+I am Walido
+I was born in 06 Jun 1998
+I am from Syria and I live in Dubai
 """
 
 print(info)
