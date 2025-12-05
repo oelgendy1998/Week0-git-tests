@@ -7,3 +7,4 @@ I am from Egypt and I live in Dubai
 """
 
 print(info)
+print("Thanks bye")
